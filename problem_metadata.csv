@@ -1,0 +1,48 @@
+problem_num,leetcode_id,title,difficulty,category
+1,146,LRU Cache,Medium,System Design
+2,155,Min Stack,Medium,System Design
+3,208,Implement Trie,Medium,System Design
+4,355,Design Twitter,Medium,System Design
+6,981,Time Based Key-Value Store,Medium,System Design
+7,295,Find Median from Data Stream,Hard,System Design
+8,460,LFU Cache,Hard,System Design
+9,432,All O'one Data Structure,Hard,System Design
+11,5,Longest Palindromic Substring,Medium,Dynamic Programming
+12,62,Unique Paths,Medium,Dynamic Programming
+13,91,Decode Ways,Medium,Dynamic Programming
+14,139,Word Break,Medium,Dynamic Programming
+15,198,House Robber,Medium,Dynamic Programming
+16,300,Longest Increasing Subsequence,Medium,Dynamic Programming
+17,10,Regular Expression Matching,Hard,Dynamic Programming
+18,72,Edit Distance,Hard,Dynamic Programming
+19,312,Burst Balloons,Hard,Dynamic Programming
+20,1235,Maximum Profit in Job Scheduling,Hard,Dynamic Programming
+21,102,Binary Tree Level Order Traversal,Medium,Graph/Tree
+22,200,Number of Islands,Medium,Graph/Tree
+23,207,Course Schedule,Medium,Graph/Tree
+24,236,Lowest Common Ancestor of a Binary Tree,Medium,Graph/Tree
+25,310,Minimum Height Trees,Medium,Graph/Tree
+26,994,Rotting Oranges,Medium,Graph/Tree
+27,124,Binary Tree Maximum Path Sum,Hard,Graph/Tree
+28,297,Serialize and Deserialize Binary Tree,Hard,Graph/Tree
+29,329,Longest Increasing Path in a Matrix,Hard,Graph/Tree
+31,3,Longest Substring Without Repeating Characters,Medium,String/Array
+32,15,3Sum,Medium,String/Array
+33,49,Group Anagrams,Medium,String/Array
+34,56,Merge Intervals,Medium,String/Array
+35,238,Product of Array Except Self,Medium,String/Array
+36,560,Subarray Sum Equals K,Medium,String/Array
+37,4,Median of Two Sorted Arrays,Hard,String/Array
+38,41,First Missing Positive,Hard,String/Array
+39,76,Minimum Window Substring,Hard,String/Array
+40,239,Sliding Window Maximum,Hard,String/Array
+41,17,Letter Combinations of a Phone Number,Medium,Backtracking
+42,22,Generate Parentheses,Medium,Backtracking
+43,39,Combination Sum,Medium,Backtracking
+44,46,Permutations,Medium,Backtracking
+45,78,Subsets,Medium,Backtracking
+46,79,Word Search,Medium,Backtracking
+47,37,Sudoku Solver,Hard,Backtracking
+48,51,N-Queens,Hard,Backtracking
+49,212,Word Search II,Hard,Backtracking
+50,301,Remove Invalid Parentheses,Hard,Backtracking
