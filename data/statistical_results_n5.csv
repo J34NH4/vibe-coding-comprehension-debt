@@ -1,0 +1,12 @@
+Metric,Key,Vibe_Mean,Vibe_SD,Senior_Mean,Senior_SD,t_stat,p_ttest,W_stat,p_wilcoxon,Cohens_d,d_CI_low,d_CI_high,rank_biserial_rc,d_effect,rc_effect,primary_test,primary_p,p_adjusted_BH,Significance,Sig_adjusted
+Cyclomatic Complexity,cc_average,5.1307,3.1595,4.0038,2.0470,3.0181,0.004138,313.0000,0.007843,0.4402,0.1752,0.7229,0.4450,small,large,t-test,0.0041,0.006896,**,**
+Maintainability Index,mi_score,60.0278,7.1218,75.5361,6.3078,-17.1655,0.000000,0.0000,0.000000,-2.5038,-3.1493,-2.0904,-1.0000,very large,large,t-test,0.0000,0.000000,***,***
+Halstead Volume,hal_volume,126.4912,116.2227,156.9947,118.7820,-2.7539,0.008405,225.0000,0.000375,-0.4017,-0.6939,-0.1621,-0.5837,small,large,t-test,0.0084,0.010506,**,*
+Halstead Difficulty,hal_difficulty,3.5240,2.1560,3.8430,1.9008,-2.0055,0.050809,338.0000,0.042745,-0.2925,-0.6122,-0.0093,-0.3469,small,medium,t-test,0.0508,0.056454,n.s.,n.s.
+Halstead Effort,hal_effort,666.5670,852.1377,798.4884,893.1729,-1.4313,0.159099,349.0000,0.036048,-0.2088,-0.4489,0.0733,-0.3543,small,medium,t-test,0.1591,0.159099,n.s.,n.s.
+Halstead Bugs,hal_bugs,0.0422,0.0387,0.0523,0.0396,-2.7539,0.008405,225.0000,0.000375,-0.4017,-0.6939,-0.1621,-0.5837,small,large,t-test,0.0084,0.010506,**,*
+Pylint Score,pylint_score,7.0711,1.1300,4.3277,1.5710,10.7168,0.000000,1.0000,0.000000,1.5632,1.3078,1.9998,0.9982,very large,large,t-test,0.0000,0.000000,***,***
+Pylint Total Issues,pylint_total_issues,4.2979,1.6800,16.0213,5.4433,-15.7267,0.000000,0.0000,0.000000,-2.2940,-2.7300,-2.0109,-1.0000,very large,large,t-test,0.0000,0.000000,***,***
+Lines of Code,lines_of_code,16.1489,9.3576,64.7660,20.9141,-20.5922,0.000000,0.0000,0.000000,-3.0037,-3.9602,-2.5274,-1.0000,very large,large,t-test,0.0000,0.000000,***,***
+Comment Lines,comment_lines,0.0000,0.0000,4.9149,2.6113,-12.9037,0.000000,0.0000,0.000000,-1.8822,-2.4405,-1.5296,-1.0000,very large,large,t-test,0.0000,0.000000,***,***
+Bandit Total,bandit_total,0.0000,0.0000,0.0000,0.0000,,,,,0,0,0,0,negligible,negligible,t-test,,,n.s.,n.s.
